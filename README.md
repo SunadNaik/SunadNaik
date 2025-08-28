@@ -51,7 +51,7 @@
 <p align="center">
 <a href="https://sunad.rf.gd/"><img alt="Website" src="https://img.shields.io/badge/Website-www.sunadnaik.com-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/sunad-naik-a04227222/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Sunad%20Naik%20-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/sunad.naik/?igsh=OW41MjFlZjRhN2M%3D"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-sunad__-blue?style=flat-square&logo=instagram"></a>
+<a href="https://www.instagram.com/sunad.naik/?igsh=OW41MjFlZjRhN2M%3D"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-sunad.naik-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:sunadnaik12@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-sunadnaik12@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
