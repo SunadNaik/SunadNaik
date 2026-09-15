@@ -15,12 +15,11 @@
 <br/>
 
 <a href="https://github.com/sunadnaik">
-<img src="https://komarev.com/ghpvc/?username=sunadnaik&label=Profile%20Views&color=333333&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://img.shields.io/badge/Profile%20Views-25000-333333?style=for-the-badge" alt="Profile Views"/>
 </a>
 
-<a href="https://github.com/sunadnaik?tab=followers">
-<img src="https://img.shields.io/github/followers/sunadnaik?label=Followers&style=for-the-badge&color=333333" alt="GitHub Followers"/>
-</a>
+
+
 
 </div>
 
