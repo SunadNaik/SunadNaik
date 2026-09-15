@@ -15,7 +15,7 @@
 <br/>
 
 <a href="https://github.com/sunadnaik">
-  <img src="https://img.shields.io/badge/Profile%20Views-25000-333333?style=for-the-badge" alt="Profile Views"/>
+  <img src="https://img.shields.io/badge/Profile%20Views-25k+-333333?style=for-the-badge" alt="Profile Views"/>
 </a>
 
 
