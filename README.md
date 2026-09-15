@@ -123,17 +123,7 @@ I enjoy exploring new technologies, experimenting with **AI**, designing cloud-b
 
 ---
 
-# 📊 GitHub Statistics
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sunadnaik&show_icons=true&hide_border=true&theme=default&include_all_commits=true&count_private=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunadnaik&layout=compact&hide_border=true&theme=default&langs_count=8" />
-
-</div>
-
----
 
 # 🔥 Contribution Streak
 
@@ -145,25 +135,8 @@ I enjoy exploring new technologies, experimenting with **AI**, designing cloud-b
 
 ---
 
-# 📈 Contribution Graph
 
-<div align="center">
 
-[![Sunad's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sunadnaik\&hide_border=true)](https://github.com/sunadnaik)
-
-</div>
-
----
-
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sunadnaik&theme=flat&no-frame=true&no-bg=true&margin-w=10&column=7" />
-
-</div>
-
----
 
 # 💻 Coding Philosophy
 
@@ -173,17 +146,6 @@ I believe the best way to learn technology is to **build real things with it**.
 
 My focus is not only on learning frameworks, but on understanding **how systems work, how products scale, and how technology can solve real problems.**
 
----
-
-# 🌱 Currently Learning
-
-```text
-AWS Cloud Architecture     █████████░░  80%
-Next.js                    █████████░░  80%
-System Design              ████████░░░  70%
-Artificial Intelligence    ███████░░░░  65%
-DevOps                     ██████░░░░░  55%
-```
 
 ---
 
@@ -199,7 +161,7 @@ DevOps                     ██████░░░░░  55%
 <img src="https://img.shields.io/badge/LinkedIn-333333?style=for-the-badge&logo=linkedin" />
 </a>
 
-<a href="https://www.instagram.com/sunad.naik/">
+<a href="https://www.instagram.com/sunad__/">
 <img src="https://img.shields.io/badge/Instagram-333333?style=for-the-badge&logo=instagram" />
 </a>
 
